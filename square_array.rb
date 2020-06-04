@@ -1,3 +1,3 @@
 def square_array(array)
-  array.each{|numbers| puts 
+  array.collect{|numbers| puts 
 end
